@@ -23,7 +23,13 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
-    }
+      "supportsTablet": true,
+      "bundleIdentifier": "com.bhz.weiwy"
+    },
+    "android": {
+      "package": "com.bhz.weiwy"
+    },
+    "description": "https://github.com/vivijen/CRNA-expo-init-demo.git",
+    "githubUrl": "https://github.com/vivijen/CRNA-expo-init-demo.git"
   }
 }
