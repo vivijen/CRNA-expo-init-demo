@@ -3,6 +3,10 @@ a small react-native project build with create-react-native-app
 
  expo init projectname, if i delete node_modules package, i have no idea to reinstall node_modules, so this version will not be the production version nor the beta version, only the play version.....
 
+#将项目发布到expo上
+https://expo.io/@weiwy/CRNA-demo
+用nadroid手机版expo扫描页面上二维码即可快速访问本项目，ios呢？？
+
 # android打包
 expo build:android
 遇见 Would you like to upload a keystore or have us generate one for you?
